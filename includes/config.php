@@ -1,13 +1,13 @@
 <?php
 /* fb constants */
-define("FacebookAppId",'1500686036911111');
-define("FacebookAppSecret","5815ef4b2ff89f9693f4238f8c8ad234");
+define("FacebookAppId",'XXXXXXXX');
+define("FacebookAppSecret","XXXXX");
 
 /* database constants */
 define("databaseHost","localhost");
 define ("databaseName","me_and_my_friends");
-define("databaseUserName","root");
-define("databasePassword","root123");
+define("databaseUserName","XXXX");
+define("databasePassword","XXXX");
 
 /* url constants*/
 define("baseUrl","http://meandmyfrnds.com/");
